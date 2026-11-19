@@ -21,15 +21,15 @@ Conçue pour le projet **EduArm** (bras robotique éducatif).
 ---
 ## Sommaire
 
-1. [[#structure-du-dépôt|Structure du dépôt]]
-2. [[#fonctionnalités|Fonctionnalités]]
-3. [[#aperçu|Aperçu]]
-4. [[#architecture|Architecture]]
-5. [[#caractéristiques|Caractéristiques]]
-6. [[#composants-principaux|Composants principaux]]
-7. [[#protections-dentrée|Protections d'entrée]]
-8. [[#connecteurs-et-interface|Connecteurs et interface]]
-9. [[#brochage-du-raspberry-pi|Brochage du Raspberry Pi]]
+1. [Structure du dépôt](#structure-du-dépôt)
+2. [Fonctionnalités](#fonctionnalités)
+3. [Aperçu](#aperçu)
+4. [Architecture](#architecture)
+5. [Caractéristiques](#caractéristiques)
+6. [Composants principaux](#composants-principaux)
+7. [Protections d'entrée](#protections-dentrée)
+8. [Connecteurs et interface](#connecteurs-et-interface)
+9. [Brochage du Raspberry Pi](#brochage-du-raspberry-pi)
 
 ---
 

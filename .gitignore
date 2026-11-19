@@ -24,3 +24,5 @@ Thumbs.db
 .DS_Store
 sym-lib-table
 fp-lib-table
+
+fabrication-toolkit-options.json
