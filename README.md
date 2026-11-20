@@ -1,4 +1,4 @@
-# Socle Raspberry Pi 4B 
+# Raspberry Hat Pi 4B 
 
 Carte **socle** du bras robotique éducatif **EduArm** : elle accueille une **Raspberry Pi 4B**, distribue l'alimentation **24 V** et le bus **CAN** vers les drivers moteurs, génère le **5 V** de la Pi et regroupe les boutons, les LED et les connecteurs d'extension. Elle se place à la base du bras.
 
